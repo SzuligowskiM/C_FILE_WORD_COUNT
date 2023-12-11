@@ -1,0 +1,3 @@
+C:/Users/lukasz/Desktop/D2/8/zad8_13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lukasz/Desktop/D2/8/zad8_13/cmake-build-debug/CMakeFiles/zad8_13.dir
+C:/Users/lukasz/Desktop/D2/8/zad8_13/cmake-build-debug/CMakeFiles/edit_cache.dir
